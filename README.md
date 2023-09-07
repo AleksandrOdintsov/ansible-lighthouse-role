@@ -7,13 +7,13 @@ Role Variables
 --------------
 
 |vars|description|
-|____|____________|
+|-----|-----------|
 |lighthouse_vcs | provide path to ligthouse from git|
 
 Dependencies
 ------------
 |Dependencies|description|
-|____|____________|
+|-----|-----------|
 |git |install git| 
 Example Playbook
 ----------------
